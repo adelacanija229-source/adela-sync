@@ -1,4 +1,4 @@
-const CACHE_NAME = 'adela-sync-v1.0.1'; // 버전 번호를 올리면 업데이트가 감지됩니다.
+const CACHE_NAME = 'adela-sync-v1.0.2'; // 버전 번호를 올리면 업데이트가 감지됩니다.
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
