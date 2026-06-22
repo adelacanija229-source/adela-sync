@@ -1,0 +1,23 @@
+{
+  "name": "Adela Design Team Sync",
+  "short_name": "Adela Sync",
+  "description": "아델라 디자인팀 실시간 협업 및 공유 툴",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e53935",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
